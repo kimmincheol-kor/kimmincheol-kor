@@ -2,7 +2,7 @@
 > 1. 내 분야에 대해 몰두한다.
 > 2. 모르는 개념들을 대충 넘기지 않는다.
 > 3. 내가 안다는 것은 남에게 설명할 줄 아는 것이다.
-> 4. 피지컬을 습관처럼 기른다.
+> 4. 피지컬을 항상 기른다.
 
 <!--
 **kimmincheol-kor/kimmincheol-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
